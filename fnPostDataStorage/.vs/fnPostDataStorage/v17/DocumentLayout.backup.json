@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo\\Downloads\\Azure-Functions\\fnPostDataStorage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14C1DEB9-7130-4C4C-9A85-0308E7FAE03B}|fnPostDataStorage\\fnPostDataStorage.csproj|c:\\users\\paulo\\downloads\\azure-functions\\fnpostdatastorage\\fnpostdatastorage\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C1DEB9-7130-4C4C-9A85-0308E7FAE03B}|fnPostDataStorage\\fnPostDataStorage.csproj|solutionrelative:fnpostdatastorage\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C1DEB9-7130-4C4C-9A85-0308E7FAE03B}|fnPostDataStorage\\fnPostDataStorage.csproj|c:\\users\\paulo\\downloads\\azure-functions\\fnpostdatastorage\\fnpostdatastorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C1DEB9-7130-4C4C-9A85-0308E7FAE03B}|fnPostDataStorage\\fnPostDataStorage.csproj|solutionrelative:fnpostdatastorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\Downloads\\Azure-Functions\\fnPostDataStorage\\fnPostDataStorage\\Program.cs",
+              "RelativeDocumentMoniker": "fnPostDataStorage\\Program.cs",
+              "ToolTip": "C:\\Users\\paulo\\Downloads\\Azure-Functions\\fnPostDataStorage\\fnPostDataStorage\\Program.cs",
+              "RelativeToolTip": "fnPostDataStorage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:31:50.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\Downloads\\Azure-Functions\\fnPostDataStorage\\fnPostDataStorage\\Function1.cs",
+              "RelativeDocumentMoniker": "fnPostDataStorage\\Function1.cs",
+              "ToolTip": "C:\\Users\\paulo\\Downloads\\Azure-Functions\\fnPostDataStorage\\fnPostDataStorage\\Function1.cs",
+              "RelativeToolTip": "fnPostDataStorage\\Function1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:28:23.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
